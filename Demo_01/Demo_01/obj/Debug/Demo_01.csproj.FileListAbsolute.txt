@@ -1,0 +1,6 @@
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\Demo_01\bin\Debug\Demo_01.dll
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\Demo_01\bin\Debug\Demo_01.pdb
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\Demo_01\obj\Debug\Demo_01.Textbox_NhapSo.resources
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\Demo_01\obj\Debug\Demo_01.csproj.GenerateResource.Cache
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\Demo_01\obj\Debug\Demo_01.dll
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\Demo_01\obj\Debug\Demo_01.pdb

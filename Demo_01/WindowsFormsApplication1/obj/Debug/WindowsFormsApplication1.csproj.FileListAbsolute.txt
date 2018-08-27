@@ -1,0 +1,11 @@
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\bin\Debug\Demo_01.dll
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\bin\Debug\Demo_01.pdb
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\File bai hoc\LTW (Nang Cao)\Demo_01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
